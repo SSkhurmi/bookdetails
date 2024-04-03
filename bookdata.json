@@ -94,7 +94,7 @@
         "id": "11",
         "image": "https://c7.alamy.com/comp/G37MH0/book-cover-god-drives-a-flying-saucer-G37MH0.jpg",
         "name": "God Drives ",
-        "read_percentage": 10,
+        "read_percentage": 30,
         "author_name": "R L Dione",
         "genre": "Adventure",
         "book_pdf":"https://healingandrevival.com/Flying_saucers.pdf"
@@ -102,9 +102,9 @@
       {
         "id": "12",
         "image": "https://c7.alamy.com/comp/A9K4YT/cover-of-forgotten-childrens-books-A9K4YT.jpg",
-        "name": "",
-        "read_percentage": 10,
-        "author_name": "Leadenhall",
+        "name": "Leadenhall",
+        "read_percentage": 50,
+        "author_name": "Forgotten Childrens",
         "genre": "Classic",
         "book_pdf":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Pages_and_pictures_from_forgotten_children%27s_books_%28IA_cu31924005648401%29.pdf"
       }
