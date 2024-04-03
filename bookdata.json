@@ -89,6 +89,24 @@
         "author_name": "Salcari",
         "genre": "Adventure",
         "book_pdf":"https://ilibridileo.altervista.org/wp-content/uploads/2020/12/EMILIO-SALGARI-Le-tigri-di-Mompracem.pdf"
+      },
+      {
+        "id": "11",
+        "image": "https://c7.alamy.com/comp/G37MH0/book-cover-god-drives-a-flying-saucer-G37MH0.jpg",
+        "name": "God Drives ",
+        "read_percentage": 10,
+        "author_name": "R L Dione",
+        "genre": "Adventure",
+        "book_pdf":"https://healingandrevival.com/Flying_saucers.pdf"
+      },
+      {
+        "id": "12",
+        "image": "https://c7.alamy.com/comp/A9K4YT/cover-of-forgotten-childrens-books-A9K4YT.jpg",
+        "name": "",
+        "read_percentage": 10,
+        "author_name": "Leadenhall",
+        "genre": "Classic",
+        "book_pdf":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Pages_and_pictures_from_forgotten_children%27s_books_%28IA_cu31924005648401%29.pdf"
       }
     ]
   }
